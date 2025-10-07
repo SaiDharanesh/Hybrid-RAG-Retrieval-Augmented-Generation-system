@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+langchain-groq
+faiss-cpu
+python-dotenv
+tiktoken
+pypdf
+duckduckgo-search
+wikipedia
+arxiv
+requests
